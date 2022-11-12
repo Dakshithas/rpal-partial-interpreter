@@ -8,9 +8,11 @@ Input format
 java Myrpal <filename> [-st] [-ast]
 ```
 
-| Optional| |
+| Options| |
 | ------ | ------ |
 | -st | to genearte standardize tree |
 | -ast | to genearte abstract syntax tree |
 
-standardize tree
+### standardize tree
+
+![](https://user-images.githubusercontent.com/59331614/201479896-cfb849f7-176c-4d7d-b5e4-5fca239f38df.png)

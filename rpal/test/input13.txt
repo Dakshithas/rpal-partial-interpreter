@@ -1,0 +1,17 @@
+let 
+.function_form
+..<ID:Add>
+..<ID:x>
+..<ID:y>
+..+
+...<ID:x>
+...<ID:y>
+.gamma
+..<ID:Print>
+..@
+...@
+....<INT:2>
+....<ID:Add>
+....<INT:3>
+...<ID:Add>
+...<INT:4>

@@ -1,0 +1,9 @@
+gamma 
+.<ID:Print>
+.@
+..@
+...<STR:'a'>
+...<ID:Conc>
+...<STR:'b'>
+..<ID:Conc>
+..<STR:'c'>

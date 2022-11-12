@@ -1,0 +1,11 @@
+gamma 
+.lambda 
+.., 
+...<ID:x> 
+...<ID:y> 
+..+ 
+...<ID:x> 
+...<ID:y> 
+.tau 
+..<INT:5> 
+..<INT:6> 
